@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4052cc6-b628-4df9-96f6-7fce6f4db365" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/.idea/Backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clase1/Clase1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clase1/clase-2-template/clase-2-template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/ClaseRepasoPatrones/Test/ar/com/dh/services/TrianguloFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/ClaseRepasoPatrones/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clasedb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clasedb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clasedb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clasedb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clasedb/Clasedb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Clasedb/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Conexion a bdd/Conexion a bdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Conexion a bdd/c11-db/c11-db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/EmpleadosBDD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/GoogleDriveProxy/GoogleDriveProxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Integradora IV/.idea/Integradora IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/Integradora IV/resolucionIntegradora/.idea/resolucionIntegradora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/IntegradoraMesas/IntegradoraMesas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/IntegradoraMesas/Test/ar/com/dh/services/RopaFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/IntegradoraMesas/src/ar/com/dh/model/Ropa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/IntegradoraMesas/src/ar/com/dh/services/RopaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/LoggeoRepaso/LoggeoRepaso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/LoggeoRepaso/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/LoggeoRepaso/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/LoggeoRepaso/src/ar/com/dh/service/ListaEnterosService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PatronCadena/PatronCadena.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PatronProfe/PatronProfe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PatronProfe/c3-integradora-template-test/c3-integradora-template-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/Empresa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PatronTemplateMethodProfe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PrimeraClase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PrimeraClaseIntegradora/PrimeraClaseIntegradora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Afiliado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Pasante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraPracticaPlay/PrimeraPracticaPlay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraPracticaPlay/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraPracticaPlay/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/PrimeraPracticaPlay/src/PersonaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/bddVideo/bddVideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/bddVideo/src/TestDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c11-db/c11-db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c11-db/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c13-transacciones/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c13-transacciones/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c13-transacciones/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c13-transacciones/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c13-transacciones/c13-transacciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c13-transacciones/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c13-transacciones/src/ar/com/dh/service/CuentaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c4-cadena-responsabilidad/c4-cadena-responsabilidad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c5-proxy/c5-proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c8-flywheigth/c8-flywheigth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/c9-facade/c9-facade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/resolucion-db/resolucion-db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/resolucion-db/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Backend/resolucion-db/src/ar/com/dh/model/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Integradora IV/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Integradora IV/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Integradora IV/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Integradora IV/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Integradora IV/EmpleadosBDD/EmpleadosBDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Integradora IV/Integradora IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/.idea/Patron DAO Ejercicio Playground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/DAO Live Coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/src/com/company/daos/EstudianteDAOH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/src/com/company/daos/EstudianteDaoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/src/com/company/daos/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/src/com/company/entidades/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/src/com/company/servicios/EstudianteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DAO Live Coding/test/com/company/servicios/EstudianteServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/DH-PatronDAO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/src/com/company/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/src/com/company/CuentaCajaAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/src/com/company/CuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/src/com/company/EstrategiaCajaAhorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/src/com/company/EstrategiaCuentaCorriente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/src/com/company/EstrategiaExtraccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/DH-PatronDAO/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/PracticaAvion/PracticaAvion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/PracticaAvion/src/ar/com/model/Dao/AvionDaoH2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/PracticaAvion/src/ar/com/model/Dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/PracticaAvion/src/ar/com/model/entidades/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/PracticaAvion/src/ar/com/model/service/AvionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/Patron DAO Ejercicio Playground/PracticaAvion/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/RepasoParcial/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/RepasoParcial/.idea/RepasoParcial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/RepasoParcial/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/RepasoParcial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/RepasoParcial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/RepasoParcial/LoggeoVideo/.idea/LoggeoVideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c13-transacciones/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c13-transacciones/c13-transacciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-coding/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-coding/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-coding/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-coding/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-coding/c16-taller-coding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-coding/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-codingv2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-codingv2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-codingv2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-codingv2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-codingv2/c16-taller-codingv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DH 2023/Segundo Bimestre 2023/c16-taller-codingv2/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElTanoConstrucciones2/src/Proyecto/EmpresaDeServicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElTanoConstrucciones2/test/EmpresaDeServiciosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parcial/Parcial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parcial/src/AcumuladoresBooleanos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraSemana/PrimeraSemana.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bellota.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bombon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bulbasaur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../burbuja.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../charmander.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pikachu.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2QQAALdmq1F1gf4WgsCNxSsLIiT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/54112/OneDrive/Escritorio/UNGS2023/TP parte 2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4052cc6-b628-4df9-96f6-7fce6f4db365" name="Changes" comment="" />
+      <created>1685275286644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685275286644</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

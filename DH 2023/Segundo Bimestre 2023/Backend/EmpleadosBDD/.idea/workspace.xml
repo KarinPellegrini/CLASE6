@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3668af15-1784-4084-a420-5fdce894821e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Acceso a bdd video play/.idea/Acceso a bdd video play.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase1/Clase1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase1/clase-2-template/clase-2-template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseRepasoPatrones/Test/ar/com/dh/services/TrianguloFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClaseRepasoPatrones/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clasedb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clasedb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clasedb/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clasedb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clasedb/Clasedb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clasedb/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion a bdd/Conexion a bdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Conexion a bdd/c11-db/c11-db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoogleDriveProxy/GoogleDriveProxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Integradora IV/.idea/Integradora IV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Integradora IV/resolucionIntegradora/.idea/resolucionIntegradora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradoraMesas/IntegradoraMesas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradoraMesas/Test/ar/com/dh/services/RopaFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradoraMesas/src/ar/com/dh/model/Ropa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IntegradoraMesas/src/ar/com/dh/services/RopaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggeoRepaso/LoggeoRepaso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggeoRepaso/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggeoRepaso/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggeoRepaso/src/ar/com/dh/service/ListaEnterosService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logging playground/.idea/Logging playground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoggingVideo/LoggingVideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatronCadena/PatronCadena.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatronProfe/PatronProfe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatronProfe/c3-integradora-template-test/c3-integradora-template-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/Empresa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PatronTemplateMethodProfe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PrimeraClase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PrimeraClaseIntegradora/PrimeraClaseIntegradora.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Afiliado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Pasante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraClase/PrimeraClaseIntegradora/src/Empresa/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraPracticaPlay/PrimeraPracticaPlay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraPracticaPlay/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraPracticaPlay/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrimeraPracticaPlay/src/PersonaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bddVideo/bddVideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bddVideo/src/TestDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c11-db/c11-db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c11-db/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c4-cadena-responsabilidad/c4-cadena-responsabilidad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c5-proxy/c5-proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c8-flywheigth/c8-flywheigth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c9-facade/c9-facade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resolucion-db/resolucion-db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resolucion-db/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resolucion-db/src/ar/com/dh/model/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClaseConexionBDD/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClaseConexionBDD/.idea/ClaseConexionBDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClaseConexionBDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClaseConexionBDD/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ClaseConexionBDD/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../RepasoParcial/LoggeoVideo/.idea/LoggeoVideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../UNGS2023/Parcial/Parcial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../UNGS2023/Parcial/src/AcumuladoresBooleanos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../UNGS2023/PrimeraSemana/PrimeraSemana.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../bellota.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../bombon.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../bulbasaur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../burbuja.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../charmander.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pikachu.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QAQAIZCrEKWcFG8bTsEKHBlsp5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/54112/OneDrive/Escritorio/DH 2023/Segundo Bimestre 2023/apache-log4j-1.2.17/log4j-1.2.17.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3668af15-1784-4084-a420-5fdce894821e" name="Changes" comment="" />
+      <created>1684793763726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684793763726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
